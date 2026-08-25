@@ -10,3 +10,6 @@ img {
   display: block;
   object-fit: cover;
 }
+.hero h1{
+  font-family: "Poppins", sans-serif;
+}

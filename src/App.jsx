@@ -1,4 +1,6 @@
+import Expertise from "./components/Expertise";
 import Hero from "./components/Hero";
+import Herostats from "./components/Herostats";
 import Navbar from "./components/Navbar";
 
 export default function App() {
@@ -6,6 +8,8 @@ export default function App() {
     <div>
       <Navbar />
       <Hero />
+      <Herostats />
+      <Expertise/>
     </div>
   );
 }

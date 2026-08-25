@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="flex gap-5 px-6 py-13 border h-screen">
+    <section className=" hero flex gap-5 px-6 py-13 h-screen">
       {/* hero description */}
       <div className="w-full">
         {/* label */}
@@ -8,10 +8,10 @@ export default function Hero() {
           Get premium
         </span>
         {/* heading */}
-        <h1 className="text-5xl font-bold mb-5">
+        <h1 className="text-[53px] font-bold mb-5">
           Welcome to Zaneerah Holy Father Playing Ground
         </h1>
-        {/* intro */}
+        {/* intro */} 
         <p className="text-lg text-gray-600 mb-5">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus
           sed eaque fugiat tempore, cupiditate aliquid.
