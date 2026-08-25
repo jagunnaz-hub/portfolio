@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+header h3 {
+  font-family: "Playwrite VN", cursive;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
